@@ -2,8 +2,15 @@
   <a href="https://github.com/GeloZP/LanguageTool-macOS"><img src="https://github.com/GeloZP/LanguageTool-macOS/blob/main/Distribution/Icon.png?raw=true" width="125"></a>
 </p>
 
+<span align="center">
+
 # LanguageTool macOS
 A LanguageTool native macOS wrapper app.
+
+</span>
+
+
+
 
 ## Overview
 
