@@ -25,13 +25,13 @@ The best addition I can think of right now is Dark Mode support, as the web vers
 
 
 ## Screenshots
-![enter image description here](https://github.com/GeloZP/LanguageTool-macOS/blob/main/Distribution/macOS%20App%20Store%201.jpg?raw=true)
-![enter image description here](https://github.com/GeloZP/LanguageTool-macOS/blob/main/Distribution/macOS%20App%20Store%202.jpg?raw=true)
-![enter image description here](https://github.com/GeloZP/LanguageTool-macOS/blob/main/Distribution/macOS%20App%20Store%203.jpg?raw=true)
-![enter image description here](https://github.com/GeloZP/LanguageTool-macOS/blob/main/Distribution/macOS%20App%20Store%204.jpg?raw=true)
-![enter image description here](https://github.com/GeloZP/LanguageTool-macOS/blob/main/Distribution/macOS%20App%20Store%205.jpg?raw=true)
-![enter image description here](https://github.com/GeloZP/LanguageTool-macOS/blob/main/Distribution/macOS%20App%20Store%206.jpg?raw=true)
-![enter image description here](https://github.com/GeloZP/LanguageTool-macOS/blob/main/Distribution/macOS%20App%20Store%207.jpg?raw=true)
+![Screenshot 1](https://github.com/GeloZP/LanguageTool-macOS/blob/main/Distribution/Screenshots/Screenshot%201.jpg)
+![Screenshot 2](https://github.com/GeloZP/LanguageTool-macOS/blob/main/Distribution/Screenshots/Screenshot%202.jpg)
+![Screenshot 3](https://github.com/GeloZP/LanguageTool-macOS/blob/main/Distribution/Screenshots/Screenshot%203.jpg)
+![Screenshot 4](https://github.com/GeloZP/LanguageTool-macOS/blob/main/Distribution/Screenshots/Screenshot%204.jpg)
+![Screenshot 5](https://github.com/GeloZP/LanguageTool-macOS/blob/main/Distribution/Screenshots/Screenshot%205.jpg)
+![Screenshot 6](https://github.com/GeloZP/LanguageTool-macOS/blob/main/Distribution/Screenshots/Screenshot%206.jpg)
+![Screenshot 7](https://github.com/GeloZP/LanguageTool-macOS/blob/main/Distribution/Screenshots/Screenshot%207.jpg)
 
 ## Documentation 
 
